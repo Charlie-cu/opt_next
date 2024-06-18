@@ -1,0 +1,9 @@
+{
+  "name": "Truquito",
+  "description": "Utilidades para jugar",
+  "contador_de_puntos": {
+    "title": "Contador de puntos",
+    "description": "Un contador de puntos para jugar rápido un truquito."
+  },
+  "routs": ["/", "/contador-de-puntos"]
+}
